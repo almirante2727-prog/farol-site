@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://almirante2727-prog.github.io/farol-site/sitemap.xml
